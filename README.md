@@ -19,7 +19,7 @@ Step 1. Go to remix ide on remix.etheruem.org
 - Step 4. Compile Lottery.ipynb
 
 ### Youtube link too preview live code run
-<https://youtu.be/-i6qE8VbMqE>
+<https://youtu.be/GPT4XaMpeGM>
 
 ### Preview powerpoint
 <https://docs.google.com/presentation/d/1ReAhThE5GcIHNysCR-3BZxRbLaBoWXIhSJirMEXuY48/edit?usp=sharing>
