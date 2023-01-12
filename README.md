@@ -14,8 +14,9 @@ A web3 based lottery application  for random generation on the blockchain. Win c
 
 ### Usage
 Step 1. Go to remix ide on remix.etheruem.org
-- Step 2. Upload lottery.ipynb file
-- Step 3. Compile Lottery.ipynb
+- Step 2. open jupyter notebbok and download
+- Step 3. Upload lottery.ipynb file
+- Step 4. Compile Lottery.ipynb
 
 ### Youtube link too priview code run
 <https://youtu.be/-i6qE8VbMqE>
