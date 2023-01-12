@@ -17,7 +17,7 @@ Step 1. Go to remix ide on remix.etheruem.org
 - Step 2. Upload lottery.ipynb file
 - Step 3. Compile Lottery.ipynb
 
-
+<https://raw.githubusercontent.com/cornishlikeadam/pinkDollar-Lottery/main/Run_Code.mp4>
 
 
 
