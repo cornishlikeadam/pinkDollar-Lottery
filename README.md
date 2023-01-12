@@ -21,6 +21,7 @@ Step 1. Go to remix ide on remix.etheruem.org
 <https://youtu.be/-i6qE8VbMqE>
 
 ### Preview powerpoint
+<https://docs.google.com/presentation/d/1ReAhThE5GcIHNysCR-3BZxRbLaBoWXIhSJirMEXuY48/edit?usp=sharing>
 
 
 
