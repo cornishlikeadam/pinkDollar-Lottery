@@ -14,8 +14,9 @@ A web3 based lottery application  for random generation on the blockchain. Win c
 
 ### Usage
 Step 1. Go to remix ide on remix.etheruem.org
-Step 2. Upload file
-Step 3. Compile Lottery.sol
+- Step 2. Upload lottery.ipynb file
+- Step 3. Compile Lottery.ipynb
+
 
 
 
